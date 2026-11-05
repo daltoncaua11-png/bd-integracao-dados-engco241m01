@@ -6,15 +6,14 @@
 
 ## Equipe
 
-**Nome do time:** ____________________
+Caos & Código 
 
 | Nome | Matrícula | Usuário do GitHub |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+Beatriz 
+Dalton Cauã 
+Eduardo Lima
+Thaila Brasil 
+Raniele
 
 ## O cenário
 
